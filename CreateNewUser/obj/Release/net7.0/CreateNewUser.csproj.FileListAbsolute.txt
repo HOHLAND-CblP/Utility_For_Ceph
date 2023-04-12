@@ -1,0 +1,15 @@
+C:\C#\CreateNewUser\CreateNewUser\bin\Release\net7.0\CreateNewUser.exe
+C:\C#\CreateNewUser\CreateNewUser\bin\Release\net7.0\CreateNewUser.deps.json
+C:\C#\CreateNewUser\CreateNewUser\bin\Release\net7.0\CreateNewUser.runtimeconfig.json
+C:\C#\CreateNewUser\CreateNewUser\bin\Release\net7.0\CreateNewUser.dll
+C:\C#\CreateNewUser\CreateNewUser\bin\Release\net7.0\CreateNewUser.pdb
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.csproj.AssemblyReference.cache
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.AssemblyInfoInputs.cache
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.AssemblyInfo.cs
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.csproj.CoreCompileInputs.cache
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.dll
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\refint\CreateNewUser.dll
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.pdb
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\CreateNewUser.genruntimeconfig.cache
+C:\C#\CreateNewUser\CreateNewUser\obj\Release\net7.0\ref\CreateNewUser.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreateNewUser": {
+      "commandName": "Project",
+      "commandLineArgs": "newuser newscriptuser script 1234"
+    }
+  }
+}
